@@ -1,2 +1,2 @@
 # Pokemon-Tower-Defense
-A sweet game I made in highschool
+A sweet game, in Python script form, that I made in highschool.
